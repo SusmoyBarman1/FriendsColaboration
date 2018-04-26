@@ -1,3 +1,5 @@
+//this is a code to subtract of two given numbers
+
 #include<bits/stdc++.h>
 using namespace std;
 
